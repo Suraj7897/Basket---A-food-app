@@ -18,7 +18,7 @@
 
 
 <p align="center">
-  <img src=![e56d4afe4614e549e07f6995467c57a4](https://github.com/user-attachments/assets/db5f15e4-3a2e-46b4-af52-7797b776aed3)alt="Basket App Demo" width="600">
+  <img src="https://github.com/user-attachments/assets/db5f15e4-3a2e-46b4-af52-7797b776aed3"alt="Basket App Demo" width="600">
 </p>
 
 <h3 align="center">Revolutionizing the way users discover and enjoy their favorite meals.</h3>
