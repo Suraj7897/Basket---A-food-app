@@ -1,7 +1,24 @@
 <h1 align="center">🚀 Basket - A Food Delivery App 🍔🍕</h1>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center">
-  <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="Basket App Demo" width="600">
+  <img src=![e56d4afe4614e549e07f6995467c57a4](https://github.com/user-attachments/assets/db5f15e4-3a2e-46b4-af52-7797b776aed3)alt="Basket App Demo" width="600">
 </p>
 
 <h3 align="center">Revolutionizing the way users discover and enjoy their favorite meals.</h3>
@@ -87,22 +104,24 @@ To get a local copy up and running, follow these steps:
 
 1. Clone the repo:
 
-   bash
+   ``bash
    git clone https://github.com/yourusername/Basket-A-food-app.git
 
-   Navigate to the project directory:
+2. Navigate to the project directory:
 
 bash
 Copy
 Edit
 cd Basket-A-food-app
-Install dependencies:
+
+3. Install dependencies:
 
 bash
 Copy
 Edit
 flutter pub get
-Run the app:
+
+3. Run the app:
 
 bash
 Copy
@@ -110,3 +129,9 @@ Edit
 flutter run
 Contributing 🤝
 We welcome contributions to enhance the Basket app! If you'd like to contribute, please fork the repo, create a new branch, make your changes, and submit a pull request.
+
+
+Acknowledgements 🙏
+Flutter and Dart for providing the excellent tools for mobile development.
+MongoDB for seamless database management.
+Stripe and PayPal for easy and secure payments.
