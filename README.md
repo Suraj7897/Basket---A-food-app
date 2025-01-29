@@ -55,9 +55,20 @@ Basket is an innovative food delivery application that revolutionizes the way us
 
 ### Screenshots 📸
 
+
+
+
+
+
+
+
+
+
+
+
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt61tLzNw5A01EC/giphy.gif" alt="Basket App Screenshot 1" width="400">
-  <img src="https://media.giphy.com/media/3o6Zt61tLzNw5A01EC/giphy.gif" alt="Basket App Screenshot 2" width="400">
+  <img src="https://github.com/user-attachments/assets/5e9eb613-707f-410e-a8b9-f0abe5d41d2a" alt="Basket App Screenshot 1" width="400">
+
 </p>
 
 ## Technologies Used 🔧
